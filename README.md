@@ -6,9 +6,11 @@ Temos um card na App.js com:
 - Dois modelos de Botão para utilizar
 - Classes Bootstrap
 - Hooks: useState
+- Git => Branches e Workflow
 
 
 ## Conclusão
-### Release-1.0cardBase
+
+### cardRelease-1.0
 - Nessa versão finalizamos com um card contendo dois exemplos de botões, na branch develop vamos continuar trabalhando um form.
 
