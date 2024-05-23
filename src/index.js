@@ -8,4 +8,3 @@ root.render(
     <App />
 );
 
-// Esse é um teste de gitHub

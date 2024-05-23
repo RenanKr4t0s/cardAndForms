@@ -14,3 +14,9 @@ Temos um card na App.js com:
 ### cardRelease-1.0
 - Nessa versão finalizamos com um card contendo dois exemplos de botões, na branch develop vamos continuar trabalhando um form.
 
+## commit final-basic-form
+- Agora transformamos de fato nosso card em form
+- Utilizado um antigo conecido do html => .preventDefault()
+- Utilizamos o onSubmit no form
+- Utilizamos o type='submit" no botão
+
